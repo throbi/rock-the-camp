@@ -4,8 +4,8 @@ banner:
   bg_image_webp: images/hero-background.webp
   bg_image: images/hero-background.jpg
   icon: ''
-  title: ssfsf
-  content: sfdfdfdfd
+  title: Rock the Camp
+  content: 'Festival rock la iarbă verde. Concerte, workshop-uri și bere rece! '
   button:
     enable: true
     label: Detalii
