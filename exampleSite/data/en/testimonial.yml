@@ -4,9 +4,9 @@ testimonial:
   bg_image: images/Afis landscape.jpg
   bg_image_webp: images/Afis landscape.webp
   testimonial_item:
-  - image_webp: ''
-    date: ''
+  - image_webp: images/client/client-1.webp
+    date: Dec 26, 2018
     name: Altar
     content: ALTAR va sărbători împreună cu voi 30 de ani de la înfiintare si ne promit
       un recital incendiar.
-    image: images/altar-1.jpg
+    image: images/client/client-1.jpg
