@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://rock-the-camp.netlify.com"
+baseURL = "https://rock-the-camp.netlify.app"
 title = "Rock the Camp"
 theme = "rock-the-camp"
 themesDir = "../.."
