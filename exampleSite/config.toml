@@ -1,5 +1,5 @@
 baseURL = "https://rock-the-camp.netlify.app/"
-disableLanguages = ["fr"]
+disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
