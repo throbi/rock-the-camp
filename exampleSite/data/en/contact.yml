@@ -1,31 +1,59 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-
+  title : Contact
+  
   # Contact details
-  contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+  contact_list1:
+    - icon : ti-info-alt # themify icon pack : https://themify.me/themify-icons
+      info : "<b>INFORMAȚII DE CONTACT FESTIVAL</b>"
+    
+    - icon : ti-user # themify icon pack : https://themify.me/themify-icons
+      info : "Ovidiu Crișan"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
+      info : "Telefon: 0748 784 130"
       
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: <a href='ovidiu.crisan@mondayshadows.com'>ovidiu.crisan@mondayshadows.com</a>"
 
+  contact_list2:
+    - icon : ti-help-alt # themify icon pack : https://themify.me/themify-icons
+      info : "<B>INFORMAȚII DE CONTACT FESTIVAL</b>"
 
-  # Contact form
-  contact_form:
-    enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    - icon : ti-user # themify icon pack : https://themify.me/themify-icons
+      info : "Loránt Bulgozdi"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Telefon: 0755 605 298"
+           
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: <a href='mailto:lorant.bulgozdi@mondayshadows.com'>lorant.bulgozdi@mondayshadows.com</a>"
+
+  contact_list3:
+    - icon : ti-location-arrow # themify icon pack : https://themify.me/themify-icons
+      info : "<b>INFORMAȚII CAMPARE FESTIVAL</b>"
+
+    - icon : ti-user # themify icon pack : https://themify.me/themify-icons
+      info : "Attila Jánosi"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Telefon: 0745 930 945"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: <a href='info@campingeldorado.com'>info@campingeldorado.com</a>"
+
+  contact_list4:
+    - icon : ti-flag # themify icon pack : https://themify.me/themify-icons
+      info : "<b>CAMPING ELDORADO</b>"
+
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "DN 1 km 496+600. Gilau (jud.Cluj) Romania"
+      
+    - icon : ti-location-arrow # themify icon pack : https://themify.me/themify-icons
+      info : "Coordonate GPS: E 23.21.11 / N 46.46.01"
+      
+    - icon : ti-link # themify icon pack : https://themify.me/themify-icons
+      info : "Web: <a href='https://campingeldorado.com'>campingeldorado.com</a>"
+
