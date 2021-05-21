@@ -9,4 +9,4 @@ banner:
   button:
     enable : true
     label : "Detalii"
-    link : "#services"
+    link : "#contact"
