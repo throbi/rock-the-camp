@@ -6,10 +6,13 @@ feature:
   feature_items : 
       # feature item loop
     - image : images/Altar 1.jpg
-      link : altar
+      link : 
+      name: ALTAR
       
     - image : images/Monday Shadows 1.jpg
-      link : altar
+      link : 
+      name: Monday Shadows
 
     - image : images/Masterpiece 1.jpg
-      link : altar
+      link : 
+      name: Masterpiece

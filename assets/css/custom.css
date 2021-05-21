@@ -14,6 +14,31 @@
     background-position: top center; 
     background-repeat: no-repeat; 
     height: calc(100vw * 224 / 1495);
+    padding: 0;
+}
+
+.bands:hover {
+    transform: scale(1.05);
+    transition: all .5s;
+}
+
+.bands span {
+    display: none;
+    background-color: #0008;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 20px;
+    padding-top: 80px;
+    font-weight: 800;
+    color: #fff;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.bands:hover span {
+    display: block;
 }
 
 @media (max-width: 991px) {
