@@ -8,5 +8,5 @@ banner:
   content: sfdfdfdfd
   button:
     enable: true
-    label: Explore Us
+    label: Detalii
     link: "#services"
