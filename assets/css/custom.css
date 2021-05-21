@@ -2,9 +2,32 @@
   background-position: center;
 }
 
+.splash {
+    background-size: contain;
+    background-position: top center;
+    background-repeat: no-repeat;
+    min-height: 400px;
+}
+
 .bands {
     background-size: cover; 
     background-position: top center; 
     background-repeat: no-repeat; 
     height: calc(100vw * 224 / 1495);
+}
+
+@media (max-width: 991px) {
+    .bands {
+        background-size: cover; 
+        background-position: top center; 
+        background-repeat: no-repeat; 
+        height: calc(100vw * 224 / 750);
+    }
+
+    .splash {
+        background-size: contain;
+        background-position: 50% 0;
+        background-repeat: no-repeat;
+        min-height: calc(100vw*526/985);
+    }
 }
