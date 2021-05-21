@@ -44,27 +44,27 @@ link = "plugins/google-map/map.js"
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
 name = "HOME"
-url = "#about"
+url = "#feature"
 weight = 1
 
 [[Languages.en.menu.main]]
 name = "DESPRE FESTIVAL"
-url = "#services"
+url = "#"
 weight = 2
 
 [[Languages.en.menu.main]]
 name = "TRUPE"
-url = "#portfolio"
+url = "#"
 weight = 3
 
 [[Languages.en.menu.main]]
 name = "BILETE"
-url = "#team"
+url = "#"
 weight = 4
 
 [[Languages.en.menu.main]]
 name = "REGULAMENT"
-url = "#pricing"
+url = "#"
 weight = 5
 
 
@@ -73,48 +73,6 @@ name = "CONTACT"
 url = "#contact"
 weight = 6
 
-
-
-################### French Navigation ########################
-[[Languages.fr.menu.main]]
-name = "sur"
-url = "#about"
-weight = 1
-
-[[Languages.fr.menu.main]]
-name = "un service"
-url = "#services"
-weight = 2
-
-[[Languages.fr.menu.main]]
-name = "portefeuille"
-url = "#portfolio"
-weight = 3
-
-[[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
-weight = 4
-
-[[Languages.fr.menu.main]]
-name = "tarification"
-url = "#pricing"
-weight = 5
-
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
-
-[[Languages.fr.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
-
-[[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 
 ############################# Default Parameters ##########################
 [params]
