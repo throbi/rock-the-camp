@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/afis-landscape.jpg
+  bg_image: images/hero-background.jpg
   icon: ''
   title: ssfsf
   content: sfdfdfdfd
