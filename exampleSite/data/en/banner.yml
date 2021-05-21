@@ -7,6 +7,6 @@ banner:
   title: ''
   content: ''
   button:
-    enable: false
+    enable: true
     label: Explore Us
     link: "#services"
