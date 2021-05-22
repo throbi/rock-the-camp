@@ -6,15 +6,15 @@ feature:
   feature_items : 
       # feature item loop
     - image : images/Altar 1.jpg
-      link : 
+      link : altar
       name: ALTAR
       
     - image : images/Monday Shadows 1.jpg
-      link : 
+      link : mondayshadows
       name: Monday Shadows
 
     - image : images/Masterpiece 1.jpg
-      link : 
+      link : masterpiece
       name: Masterpiece
   
   tickets_icon : ti-ticket

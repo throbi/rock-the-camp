@@ -1,0 +1,22 @@
+############################# trupe ###################################
+trupe:
+  enable : true
+  trupa1 :
+    image : images/Altar 2.jpg
+    image_webp : images/Altar 2.webp
+    title : Altar
+    content : 'Înființată în anul 1991, trupa ALTAR este printre singurele trupe din România care ne prezintă un metal de atitudine cu un mesaj foarte puternic, protestatar și chiar ironic, făcând parte din istoria modernă a muzicii rock românești. Altar a produs 5 albume de studio, 2 EP-uri, are sute de concerte susținute și participări la festivaluri, precum și numeroase premii câștigate în cariera lor prolifică. Show-urile ALTAR live sunt explozive și spectaculoase, energia transmisă pe scenă ajungand întotdeauna la public.<br/><br/>ALTAR va sărbători împreună cu voi 30 de ani de la înființare și ne promit un recital incendiar.'
+
+  trupa2 :
+    image : images/MondayShadows 2.jpg
+    image_webp : images/MondayShadows 2.webp
+    title : Monday Shadows
+    content : 'Înființată în anul 2017, trupa MONDAY SHADOWS este în prezent o formație în plină ascensiune în peisajul muzicii rock din România, sound-ul lor este o combinație de rock clasic cu heavy metal. Au susținut numeroase concerte în țara având deja un public fidel iubitor de muzică rock de calitate.<BR/><BR/>MONDAY SHADOWS ne vor prezenta în premieră albumul de debut al trupei “Nopți albe”, în care veți auzi piese care vorbesc despre situațiile de zi cu zi, despre baieți și motoare, povești și întâmplări din viața reală și imaginară.
+'
+
+  trupa3 :
+    image : images/Masterpiece 2.jpg
+    image_webp : images/Masterpiece 2.webp
+    title : Masterpiece
+    content : 'Înființată în anul 2009, trupa MASTERPIECE este prima, cea mai cunoscută și cea mai populară formație tribut METALLICA din România. Au participat la numeroase festivaluri de rock și metal, și-au format un nume demn de o trupă tribut al unei formații atât de consacrate ca și Metallica. Show-urile lor sunt mereu pline de energie, publicul îi iubește de la primul riff de chitară auzit.<br/><br/>Vom asista impreuna la o premieră, MASTERPIECE este în ascensiune artistică, chitaristul și fondatorul trupei Szabi Vincze este de acum înainte lead vocal, întocmai ca James Hetfield in METALLICA.
+'

@@ -54,7 +54,7 @@ weight = 2
 
 [[Languages.en.menu.main]]
 name = "TRUPE"
-url = "#"
+url = "#trupe"
 weight = 3
 
 [[Languages.en.menu.main]]

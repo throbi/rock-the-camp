@@ -26,11 +26,11 @@ cta:
   bands_title : TRUPE
   bands_info :
     - icon: ti-control-play
-      info: '<a href="#">ALTAR</a>'
+      info: '<a href="#altar">ALTAR</a>'
     - icon: ti-control-play
-      info: '<a href="#">Monday Shadows</a>'
+      info: '<a href="#mondayshadows">Monday Shadows</a>'
     - icon: ti-control-play
-      info: '<a href="#">Masterpiece</a>'
+      info: '<a href="#masterpiece">Masterpiece</a>'
 
   program_icon : ti-calendar
   program_title : PROGRAM
