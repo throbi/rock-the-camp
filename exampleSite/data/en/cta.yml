@@ -12,14 +12,14 @@ cta:
     label : "Start a project with us"
     link : "#contact"
 
-  location_icon : ti-ticket
+  location_icon : ti-map-alt
   location_title : LOCAȚIE
   location_info :
-    - icon: ti-ticket
+    - icon: ti-location-pin
       info: '<b>Camping Eldorado</b>: <a href="#map">DN 1 km 496+600. Gilau (jud.Cluj) Romania</a>'
-    - icon: ti-ticket
+    - icon: ti-location-pin
       info: '<b>Coordonate GPS</b>: <a href="#map">E  23.21.11 / N 46.46.01</a>'
-    - icon: ti-ticket
+    - icon: ti-face-smile
       info: '<b>Facilități</b>: loc de campare, grupuri sanitare, loc de joacă pentru copii, access auto și moto'
 
   bands_icon : ti-music-alt
@@ -41,3 +41,18 @@ cta:
       info: '16:00 – 19:00  <b>Workshop-uri</b>'
     - icon: ti-time
       info: '20:30 – 24:00  <b>Concert eveniment</b>'
+
+  workshop_icon : ti-wand
+  workshop_title : WORKSHOP-URI
+  workshop_info1 :
+    - info: 'În cadrul festivalului “Rock the Camp” vor fi organizate două workshop-uri în inițierea cunoștințelor de tobe și chitară.'
+    - info: '- Workshop TOBE – susținut de “Cursuri Tobe Ovidiu Crișan”'
+    - info: '- Workshop CHITARĂ – sustinut de “Monday Shadows”'
+
+  workshop_info2 :
+    - info: 'Workshop-urile sunt organizate în corturi amenajate în incinta festivalului. '
+    - info: 'Poate participa orice persoană iubitoare de muzică cu varsta de peste 12 ani.'
+
+  workshop_info3 :
+    - info: 'Doritorii trebuie să se înscrie preliminar la adresa de email: <a href="mailto:contact@mondayshadows.com">contact@mondayshadows.com</a>'
+    - info: 'Numărul de locuri este limitat și de aceea vă rugăm să vă înscrieți din timp.'
