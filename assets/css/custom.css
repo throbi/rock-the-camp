@@ -22,7 +22,7 @@
 }
 
 .bands:hover {
-    transform: scale(1.05);
+    transform: scale(0.95);
     transition: all .5s;
 }
 
@@ -38,7 +38,7 @@
     font-weight: 800;
     color: #fff;
     text-align: center;
-    font-size: xx-large;
+    font-size: x-large;
 }
 
 .bands:hover a span {
@@ -48,6 +48,14 @@
 .small-box {
     padding: 5px;
     display: inline;
+}
+
+.border-meghna {
+    border-top: 2px solid rgba(236,239,241,20%);
+    height: 1px;
+    margin: 15px auto 0;
+    position: relative;
+    width: 94%;
 }
 
 @media (max-width: 991px) {

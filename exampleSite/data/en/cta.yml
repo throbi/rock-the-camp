@@ -1,11 +1,13 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  bg_image : "images/festival.jpg"
+  bg_image_webp : "images/festival.webp"
+  title : "Despre Festival"
+  content1 : '“ROCK THE CAMP” este un festival eveniment cultural de muzica rock/metal, desfășurat într-un cadru primitor aproape de natură, care dorește să reunească după această lungă pauză iubitorii muzicii rock din Transilvania, și nu numai. Avem nevoie de socializare, fun, relaxare și muzică bună.'
+  content2 : 'În cadrul festivalului vor avea loc mai multe activități culturale (workshop-uri), va fi entertainment și va culmina cu un mega-concert, eveniment marcat de sărbătoririi și premiere.'
+  content3 : 'Festivalul “ROCK THE CAMP” se desfășoară în perimetrul Campingului Eldorado, în data de 19 iunie 2021, fiind organizat de Asociația Monday Shadows din Cluj-Napoca.'
   button:
-    enable : true
+    enable : false
     label : "Start a project with us"
     link : "#contact"
