@@ -11,3 +11,33 @@ cta:
     enable : false
     label : "Start a project with us"
     link : "#contact"
+
+  location_icon : ti-ticket
+  location_title : LOCAȚIE
+  location_info :
+    - icon: ti-ticket
+      info: '<b>Camping Eldorado</b>: <a href="#map">DN 1 km 496+600. Gilau (jud.Cluj) Romania</a>'
+    - icon: ti-ticket
+      info: '<b>Coordonate GPS</b>: <a href="#map">E  23.21.11 / N 46.46.01</a>'
+    - icon: ti-ticket
+      info: '<b>Facilități</b>: loc de campare, grupuri sanitare, loc de joacă pentru copii, access auto și moto'
+
+  bands_icon : ti-music-alt
+  bands_title : TRUPE
+  bands_info :
+    - icon: ti-control-play
+      info: '<a href="#">ALTAR</a>'
+    - icon: ti-control-play
+      info: '<a href="#">Monday Shadows</a>'
+    - icon: ti-control-play
+      info: '<a href="#">Masterpiece</a>'
+
+  program_icon : ti-calendar
+  program_title : PROGRAM
+  program_info :
+    - icon: ti-time
+      info: '12:00 <b>Deschidere acces festival</b>'
+    - icon: ti-time
+      info: '16:00 – 19:00  <b>Workshop-uri</b>'
+    - icon: ti-time
+      info: '20:30 – 24:00  <b>Concert eveniment</b>'

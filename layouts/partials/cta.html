@@ -21,6 +21,83 @@
 				{{ end }}
 			</div>
 		</div>
+		<div class="row">
+			<div class="col-lg-4">
+				<div class="small-box">
+					<div class="row">
+						<div class="col-lg-12">
+							<div class="media">
+								{{with .location_icon}}
+								<div class="align-self-start mr-3">
+									<i class="{{ . }}" style="font-size: 200%;"></i>
+								</div>
+								{{ end }}
+								<div class="media-body">
+									<h4 class="media-heading">{{ .location_title | safeHTML }}</h4>
+									<div class="border-meghna" style="margin-bottom: 20px"></div>
+									{{ range .location_info }}
+										<div class="con-info clearfix">
+											<i class="{{ .icon }}"></i>
+											<span>{{ .info | safeHTML}}</span>
+										</div>
+									{{ end }}
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4">
+				<div class="small-box">
+					<div class="row">
+						<div class="col-lg-12">
+							<div class="media">
+								{{with .bands_icon}}
+								<div class="align-self-start mr-3">
+									<i class="{{ . }}" style="font-size: 200%;"></i>
+								</div>
+								{{ end }}
+								<div class="media-body">
+									<h4 class="media-heading">{{ .bands_title | safeHTML }}</h4>
+									<div class="border-meghna" style="margin-bottom: 20px"></div>
+									{{ range .bands_info }}
+										<div class="con-info clearfix">
+											<i class="{{ .icon }}"></i>
+											<span>{{ .info | safeHTML}}</span>
+										</div>
+									{{ end }}
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4">
+				<div class="small-box">
+					<div class="row">
+						<div class="col-lg-12">
+							<div class="media">
+								{{with .program_icon}}
+								<div class="align-self-start mr-3">
+									<i class="{{ . }}" style="font-size: 200%;"></i>
+								</div>
+								{{ end }}
+								<div class="media-body">
+									<h4 class="media-heading">{{ .program_title | safeHTML }}</h4>
+									<div class="border-meghna" style="margin-bottom: 20px"></div>
+										{{ range .program_info }}
+										<div class="con-info clearfix">
+											<i class="{{ .icon }}"></i>
+											<span>{{ .info | safeHTML}}</span>
+										</div>
+									{{ end }}
+									</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
 </section>
 {{"<!-- Start Services Section -->" | safeHTML}}

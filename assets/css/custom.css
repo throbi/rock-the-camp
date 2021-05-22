@@ -51,11 +51,11 @@
 }
 
 .border-meghna {
-    border-top: 2px solid rgba(236,239,241,20%);
+    border-top: 2px solid rgba(236,239,241,20%) !important;
     height: 1px;
     margin: 15px auto 0;
     position: relative;
-    width: 94%;
+    width: 94% !important;
 }
 
 @media (max-width: 991px) {
