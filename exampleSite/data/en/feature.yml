@@ -16,3 +16,11 @@ feature:
     - image : images/Masterpiece 1.jpg
       link : 
       name: Masterpiece
+  
+  tickets_icon : ti-ticket
+  tickets_title : Bilete
+  tickets_text : "Biletele se pot achiziționa de pe site-ul <a href='https://www.iabilet.ro/'>iabilet.ro</a>"
+
+  sponsors_icon : ti-heart
+  sponsors_title : Parteneri
+  sponsors_text : AX Perpetuum, Primăria Gilău, A.P. Road Studio, Ana & Grig, Rock FM, Liveset Recording Studio, Camping Eldorado, Cursuri Tobe Ovidiu Crișan

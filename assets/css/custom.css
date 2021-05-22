@@ -1,3 +1,7 @@
+.container {
+    max-width: 100%;
+}
+
 .hero-area {
   background-position: center;
 }
@@ -13,7 +17,7 @@
     background-size: cover; 
     background-position: top center; 
     background-repeat: no-repeat; 
-    height: calc(100vw * 224 / 1495);
+    height: calc(100vw * 224 / 1666);
     padding: 0;
 }
 
@@ -56,3 +60,8 @@
         min-height: calc(100vw*526/985);
     }
 }
+
+ .small-box {
+    padding: 5px;
+    display: inline;
+ }
