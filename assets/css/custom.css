@@ -26,7 +26,7 @@
     transition: all .5s;
 }
 
-.bands span {
+.bands a span {
     display: none;
     background-color: #0008;
     cursor: pointer;
@@ -41,8 +41,13 @@
     font-size: xx-large;
 }
 
-.bands:hover span {
+.bands:hover a span {
     display: block;
+}
+
+.small-box {
+    padding: 5px;
+    display: inline;
 }
 
 @media (max-width: 991px) {
@@ -59,9 +64,9 @@
         background-repeat: no-repeat;
         min-height: calc(100vw*526/985);
     }
-}
 
- .small-box {
-    padding: 5px;
-    display: inline;
- }
+    .bands a span {
+        display: block;
+        padding-top: 40px;
+    }
+}
