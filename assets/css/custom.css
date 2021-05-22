@@ -71,12 +71,61 @@
     }
 
     body {
-        font-size: 80%
+        font-size: 80%;
+    }
+
+    h1 {
+        font-size: 70px !important;
+    }
+
+    .hero-area .block p {
+        font-size: 18px !important;
+    }
+
+    .hero-area .block .btn-transparent {
+        font-size: 16px !important;
+        padding: 12px 40px;
+        margin-top: 30px;
+    }
+
+
+@media (max-width: 769px) {
+    body {
+        font-size: 70%;
+    }
+
+    h1 {
+        font-size: 60px  !important;
+    }
+
+    .hero-area .block p {
+        font-size: 16px !important;
+    }
+
+    .hero-area .block .btn-transparent {
+        font-size: 14px !important;
+        padding: 8px 30px;
+        margin-top: 25px;
     }
 }
 
-@media (max-width: 769  px) {
+@media (max-width: 576px) {
     body {
-        font-size: 70%
+        font-size: 60%;
+    }
+
+    h1 {
+        font-size: 40px !important;
+        margin: 0px 25px;
+    }
+
+    .hero-area .block p {
+        font-size: 14px !important;
+    }
+
+    .hero-area .block .btn-transparent {
+        font-size: 12px !important;
+        padding: 6px 20px;
+        margin-top: 15px;
     }
 }
