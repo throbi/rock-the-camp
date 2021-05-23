@@ -1,64 +1,30 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : Bilete
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
+    - name : ACCESS LA FESTIVAL
+      price : 50 lei
+      unit : persoanä
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Concerte
+        - Workshop-uri (dupa <a class="page-scroll" href="#workshop">registrație</a>)
       button:
-        label : "Signup"
-        link : "#"
+        label : "CUMPĂRĂ BILETE"
+        link : "https://iabilet.ro"
       
     # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
+    - name : ACCESS ÎN ZONA DE CAMPARE
+      price : 20
+      unit : cort
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Preț este promotional pentru participantii la eveniment care au achiziționat bilet
+        - Parcelele pentru corturi au 80 mp fiecare
+        - Lângă cort se poate parca gratuit o mașină sau câteva motociclete.
+        - Accesul la grupurile sanitare este gratuit.
+        - Biletele de acces în zona de campare se vor rezerva la Camping Eldorado prin mail, telefon sau la intrare.
       button:
-        label : "Signup"
-        link : "#"
+        label : "Contact"
+        link : "#eldorado"
         
-    # pricing table loop
-    - name : Gold
-      price : $199
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-        
-    # pricing table loop
-    - name : Platinum
-      price : $299
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"

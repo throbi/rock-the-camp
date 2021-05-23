@@ -19,7 +19,7 @@
 
       {{ range .pricing_table }}
       {{"<!-- single pricing table -->" | safeHTML}}
-      <div class="col-lg-3 col-md-6 col-12 text-center wow fadeInUp" data-wow-duration="200ms">
+      <div class="col-lg-6 col-md-12 col-12 text-center wow fadeInUp" data-wow-duration="200ms">
         <div class="price-item">
 
           {{"<!-- plan name & value -->" | safeHTML}}
@@ -31,13 +31,13 @@
           {{"<!-- plan description -->" | safeHTML}}
           <ul>
             {{ range .services }}
-            <li>{{ . }}</li>
+            <li>{{ . | safeHTML }}</li>
             {{ end }}
           </ul>
 
           {{"<!-- signup button -->" | safeHTML}}
           {{ with .button }}
-          <a class="btn btn-transparent" href="{{ .link | safeURL }}">{{ .label }}</a>
+          <a class="btn btn-transparent page-scroll" href="{{ .link | safeURL }}">{{ .label }}</a>
           {{ end }}
         </div>
       </div>

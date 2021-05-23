@@ -59,7 +59,7 @@ weight = 3
 
 [[Languages.en.menu.main]]
 name = "BILETE"
-url = "#"
+url = "#pricing"
 weight = 4
 
 [[Languages.en.menu.main]]

@@ -16,9 +16,9 @@ cta:
   location_title : LOCAȚIE
   location_info :
     - icon: ti-location-pin
-      info: '<b>Camping Eldorado</b>: <a href="#map">DN 1 km 496+600. Gilau (jud.Cluj) Romania</a>'
+      info: '<b>Camping Eldorado</b>: <a class="page-scroll" href="#map">DN 1 km 496+600. Gilau (jud.Cluj) Romania</a>'
     - icon: ti-location-pin
-      info: '<b>Coordonate GPS</b>: <a href="#map">E  23.21.11 / N 46.46.01</a>'
+      info: '<b>Coordonate GPS</b>: <a class="page-scroll" href="#map">E  23.21.11 / N 46.46.01</a>'
     - icon: ti-face-smile
       info: '<b>Facilități</b>: loc de campare, grupuri sanitare, loc de joacă pentru copii, access auto și moto'
 
@@ -28,7 +28,7 @@ cta:
     - icon: ti-control-play
       info: '<a class="page-scroll" href="#altar">ALTAR</a>'
     - icon: ti-control-play
-      info: '<a  class="page-scroll" href="#mondayshadows">Monday Shadows</a>'
+      info: '<a class="page-scroll" href="#mondayshadows">Monday Shadows</a>'
     - icon: ti-control-play
       info: '<a  class="page-scroll" href="#masterpiece">Masterpiece</a>'
 
