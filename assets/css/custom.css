@@ -58,11 +58,9 @@
     width: 94% !important;
 }
 
-a.anchor {
-    display: block;
-    position: relative;
-    top: -50px;
-    visibility: hidden;
+
+.call-to-action p {
+    color: #999995;
 }
 
 @media (max-width: 991px) {
@@ -103,6 +101,11 @@ a.anchor {
         margin-top: 30px;
     }
 
+    .call-to-action p {
+        font-size: 14px;
+    }
+}
+
 
 @media (max-width: 769px) {
     body {
@@ -122,11 +125,15 @@ a.anchor {
         padding: 8px 30px;
         margin-top: 25px;
     }
+
+    .call-to-action p {
+        font-size: 13px;
+    }
 }
 
 @media (max-width: 576px) {
     body {
-        font-size: 70%;
+        font-size: 75%;
     }
 
     h1 {
@@ -142,5 +149,9 @@ a.anchor {
         font-size: 12px !important;
         padding: 6px 20px;
         margin-top: 15px;
+    }
+
+    .call-to-action p {
+        font-size: 12px;
     }
 }
