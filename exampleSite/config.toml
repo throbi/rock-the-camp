@@ -64,7 +64,7 @@ weight = 4
 
 [[Languages.en.menu.main]]
 name = "REGULAMENT"
-url = "#"
+url = "#regulament"
 weight = 5
 
 

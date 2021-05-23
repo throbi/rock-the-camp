@@ -16,7 +16,7 @@ pricing:
       
     # pricing table loop
     - name : ACCESS ÎN ZONA DE CAMPARE
-      price : 20
+      price : 20 lei
       unit : cort
       services:
         - Preț este promotional pentru participantii la eveniment care au achiziționat bilet

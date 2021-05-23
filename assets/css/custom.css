@@ -6,6 +6,10 @@
   background-position: center;
 }
 
+h1 {
+    text-transform: none !important;
+}
+
 .splash {
     background-size: contain;
     background-position: top center;
