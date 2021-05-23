@@ -104,6 +104,10 @@
     .call-to-action p {
         font-size: 14px;
     }
+
+    .bands-photo {
+        min-height: calc(100vw * 400/700);
+    }
 }
 
 

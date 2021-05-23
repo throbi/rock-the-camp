@@ -8,7 +8,7 @@
 		<a id="altar"></a>
 		<div class="row">
 			{{ with .trupa1 }}
-				<div class="col-lg-6 padding-0" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: center; background-repeat: no-repeat; min-height: 400px;">
+				<div class="col-lg-6 padding-0 bands-photo" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: center; background-repeat: no-repeat;">
 					<!-- this image is for trigger this section fallback background image -->
 					<img src="{{ .image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
 				</div>
@@ -24,7 +24,7 @@
 		<a id="mondayshadows"></a>
 		<div class="row">
 			{{ with .trupa2 }}
-				<div class="col-lg-6 padding-0 order-lg-2" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat; min-height: 400px;">
+				<div class="col-lg-6 padding-0 order-lg-2 bands-photo" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat;">
 					<!-- this image is for trigger this section fallback background image -->
 					<img src="{{ .image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
 				</div>
@@ -40,7 +40,7 @@
 		<a id="masterpiece"></a>
 		<div class="row">
 			{{ with .trupa3 }}
-				<div class="col-lg-6 padding-0" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat; min-height: 400px;">
+				<div class="col-lg-6 padding-0 bands-photo" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat;">
 					<!-- this image is for trigger this section fallback background image -->
 					<img src="{{ .image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
 				</div>
