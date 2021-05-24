@@ -67,6 +67,14 @@ h1 {
     color: #999995;
 }
 
+.price-title {
+    padding: 30px 15px 20px;
+}
+
+.pricing li {
+    padding: 10px 10px;
+}
+
 @media (max-width: 991px) {
     .bands {
         background-size: cover; 

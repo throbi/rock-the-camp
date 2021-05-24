@@ -2,6 +2,7 @@
 pricing:
   enable : true
   title : Bilete
+  description : 'Biletele se găsesc în format electronic pe <a href="https://www.iabilet.ro">www.iabilet.ro</a> și internațional prin <a href="https://www.kooltix.com">www.kooltix.com</a> și în format fizic în magazinele <b>Flanco</b>, <b>Diverta</b>, <b>Metrou Unirii 1</b>, magazinele <b>Muzica</b>, <b>IQ BOX</b>, <b>Uman</b>,  <b>Libmag</b> și pe terminalele <b>Selfpay</b>. Online, puteți plăti cu cardul, Paypal, carduri de tichete culturale Sodexo, pe factură la Vodafone sau Orange sau ramburs prin Fan Courier oriunde in țară.'
   pricing_table :
     # pricing table loop
     - name : ACCESS LA FESTIVAL
@@ -9,7 +10,7 @@ pricing:
       unit : persoanä
       services:
         - Concerte
-        - Workshop-uri (dupa <a class="page-scroll" href="#workshop">registrație</a>)
+        - Workshop-uri (după <a class="page-scroll" href="#workshop">înregistrare</a>)
       button:
         label : "CUMPĂRĂ BILETE"
         link : "https://iabilet.ro"

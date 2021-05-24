@@ -42,7 +42,7 @@ contact:
       info : "Telefon: +40 745 930 945"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: <a href='info@campingeldorado.com'>info@campingeldorado.com</a>"
+      info : "Email: <a href='mailto:eldorado.gilau@gmail.com'>eldorado.gilau@gmail.com</a>"
 
   contact_list4:
     - icon : ti-flag # themify icon pack : https://themify.me/themify-icons

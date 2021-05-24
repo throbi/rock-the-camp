@@ -5,7 +5,7 @@ cta:
   bg_image_webp : "images/festival.webp"
   title : "Despre Festival"
   content1 : '“ROCK THE CAMP” este un festival eveniment cultural de muzica rock/metal, desfășurat într-un cadru primitor aproape de natură, care dorește să reunească după această lungă pauză iubitorii muzicii rock din Transilvania, și nu numai. Avem nevoie de socializare, fun, relaxare și muzică bună.'
-  content2 : 'În cadrul festivalului vor avea loc mai multe activități culturale (workshop-uri), va fi entertainment și va culmina cu un mega-concert, eveniment marcat de sărbătoririi și premiere.'
+  content2 : 'În cadrul festivalului vor avea loc mai multe activități culturale (workshop-uri), va fi entertainment și va culmina cu un mega-concert, eveniment marcat de sărbătoriri și premiere.'
   content3 : 'Festivalul “ROCK THE CAMP” se desfășoară în perimetrul Campingului Eldorado, în data de 19 iunie 2021, fiind organizat de Asociația Monday Shadows din Cluj-Napoca.'
   button:
     enable : false
@@ -20,7 +20,7 @@ cta:
     - icon: ti-location-pin
       info: '<b>Coordonate GPS</b>: <a class="page-scroll" href="#map">E  23.21.11 / N 46.46.01</a>'
     - icon: ti-face-smile
-      info: '<b>Facilități</b>: loc de campare, grupuri sanitare, loc de joacă pentru copii, access auto și moto'
+      info: '<b>Facilități</b>: loc de campare, grupuri sanitare, loc de joacă pentru copii, acces auto și moto'
 
   bands_icon : ti-music-alt
   bands_title : TRUPE
@@ -40,7 +40,7 @@ cta:
     - icon: ti-time
       info: '16:00 – 19:00  <b>Workshop-uri</b>'
     - icon: ti-time
-      info: '20:30 – 24:00  <b>Concert eveniment</b>'
+      info: '20:30 – 24:00  <b>Concerte</b>'
 
   workshop_icon : ti-wand
   workshop_title : WORKSHOP-URI
