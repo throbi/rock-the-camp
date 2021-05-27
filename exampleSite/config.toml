@@ -107,8 +107,8 @@ map_zoomlevel = 3
 
 ################################ English Language ########################
 [Languages.en]
-languageName = "En"
-languageCode = "en-us"
+languageName = "Ro"
+languageCode = "ro-ro"
 contentDir = "content/english"
 weight = 1
 home = "Home"

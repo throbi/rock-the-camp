@@ -23,4 +23,26 @@ feature:
 
   sponsors_icon : ti-heart
   sponsors_title : Parteneri
-  sponsors_text : AX Perpetuum, Primăria Gilău, A.P. Road Studio, Ana & Grig, Rock FM, Liveset Recording Studio, Camping Eldorado, Cursuri Tobe Ovidiu Crișan
+  sponsors : 
+    - name : Asociația Monday Shadows
+      logo : images/Logo Owl Alb.png
+    - name : AX Perpetuum
+      logo : images/logo perpetuum.png
+    - name : Primăria Gilău
+      logo : images/stema-gilau-150x150.png
+    - name : A.P. Road Studio
+      logo : images/ap road.png
+    - name : Ana & Grig
+      logo : images/sigla ana+grig.png
+    - name : Rock FM
+      logo : images/Logo_Rock_FM_România.png
+    - name : Liveset Recording Studio
+      logo : images/liveset-logo-white.png
+    - name : Camping Eldorado
+      logo : images/camping eldorado.png
+    - name : Cursuri Tobe Ovidiu Crișan
+      logo : images/Cursuri Tobe Ovidiu Crișan.png
+    - name : Supersound
+      logo : images/supersound.jpg
+    - name : Anna Vixie
+      logo : images/Brush LOGO Anna_Alb.png 
