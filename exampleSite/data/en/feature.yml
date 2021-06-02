@@ -4,18 +4,26 @@ feature:
   image : images/Afis landscape.jpg
   image_webp : images/Afis landscape.webp
   feature_items : 
-      # feature item loop
     - image : images/Altar 1.jpg
       link : altar
       name: ALTAR
-      
+      vertical: top
     - image : images/Monday Shadows 1.jpg
       link : mondayshadows
       name: Monday Shadows
-
+      vertical: top
     - image : images/Masterpiece 1.jpg
       link : masterpiece
       name: Masterpiece
+      vertical: top
+    - image : images/Onenightstand 1.jpeg
+      link : onenightstand
+      name: OneNightStand
+      vertical: center
+    - image : images/Konthrast 1.jpeg
+      link : konthrast
+      name: Konthrast
+      vertical: top
   
   tickets_icon : ti-ticket
   tickets_title : Bilete
@@ -45,4 +53,8 @@ feature:
     - name : Supersound
       logo : images/supersound.jpg
     - name : Anna Vixie
-      logo : images/Brush LOGO Anna_Alb.png 
+      logo : images/Brush LOGO Anna_Alb.png
+    - name : Ursus
+      logo : images/Logo Ursus.jpeg
+    - name : Bârlog
+      logo : images/Logo Barlog.jpeg

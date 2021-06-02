@@ -31,6 +31,10 @@ cta:
       info: '<a class="page-scroll" href="#mondayshadows">Monday Shadows</a>'
     - icon: ti-control-play
       info: '<a  class="page-scroll" href="#masterpiece">Masterpiece</a>'
+    - icon: ti-control-play
+      info: '<a  class="page-scroll" href="#onenightstand">OneNightStand</a>'
+    - icon: ti-control-play
+      info: '<a  class="page-scroll" href="#konthrast">Konthrast</a>'
 
   program_icon : ti-calendar
   program_title : PROGRAM
@@ -38,9 +42,9 @@ cta:
     - icon: ti-time
       info: '12:00 <b>Deschidere acces festival</b>'
     - icon: ti-time
-      info: '16:00 – 19:00  <b>Workshop-uri</b>'
+      info: '15:00 – 18:00  <b>Workshop-uri</b>'
     - icon: ti-time
-      info: '20:30 – 24:00  <b>Concerte</b>'
+      info: '19:00 – 24:00  <b>Concerte</b>'
 
   workshop_icon : ti-wand
   workshop_title : WORKSHOP-URI

@@ -40,7 +40,6 @@ MERCHANDISING
 
 Un stand de merchandising va functiona în incinta festivalului. De aici se vor putea achizitiona, contra cost, materiale ale formațiilor prezente la festival.
 
-
 FOTO / VIDEO
 
 Pe durata evenimentului se vor realiza înregistrări audio și video. Aceste înregistrări pot fi folosite în scopurile stabilite de către organizatori, fără acordul persoanelor care apar în respectivele înregistrări. Organizatorii se vor asigura că înregistrările, audio sau video, nu vor aduce prejudicii asupra demnității și reputației persoanelor participante la eveniment.
@@ -52,6 +51,7 @@ Vă recomandăm să evitați conflictele și să respectați persoanele din jur,
 SANCȚIUNI
 
 Nu sunt tolerate excepții de la regulile de mai sus, încălcarea prezentului regulament putând duce la evacuarea din zona de festival și interzicerea accesului în zona de festival, fără rambursarea biletului și cu anunțarea instituțiilor abilitate ale statului, în caz necesar.
+
 INFORMAȚII SUPLIMENTARE
 
 Pentru copii se recomandă în timpul concertelor utilizarea căștilor pentru protecție fonică. În cazul în care copiii nu sunt echipați corespunzător, răspunderea pentru expunerea acestora la nivelul fonic din zona de festival revine integral părinților sau însoțitorilor acestora.

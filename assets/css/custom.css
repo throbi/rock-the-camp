@@ -21,7 +21,7 @@ h1 {
     background-size: cover; 
     background-position: top center; 
     background-repeat: no-repeat; 
-    height: calc(100vw * 224 / 1666);
+    height: calc(100vw * 224 / 2480);
     padding: 0;
 }
 
@@ -38,7 +38,7 @@ h1 {
     height: 100%;
     margin: 0;
     padding: 20px;
-    padding-top: 80px;
+    padding-top: 45px;
     font-weight: 800;
     color: #fff;
     text-align: center;

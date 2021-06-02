@@ -52,6 +52,38 @@
 				</div>
 			{{ end }}
 		</div>
+
+		<a id="onenightstand"></a>
+		<div class="row">
+			{{ with .trupa4 }}
+				<div class="col-lg-6 padding-0 order-lg-2 bands-photo" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat;">
+					<!-- this image is for trigger this section fallback background image -->
+					<img src="{{ .image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
+				</div>
+				<div class="col-lg-6 order-lg-1">
+					<div class="content-block">
+						<h2>{{ .title | markdownify }}</h2>
+						<p>{{ .content | safeHTML }}</p>
+					</div>
+				</div>
+			{{ end }}
+		</div>
+
+		<a id="konthrast"></a>
+		<div class="row">
+			{{ with .trupa5 }}
+				<div class="col-lg-6 padding-0 bands-photo" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat;">
+					<!-- this image is for trigger this section fallback background image -->
+					<img src="{{ .image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
+				</div>
+				<div class="col-lg-6">
+					<div class="content-block">
+						<h2>{{ .title | markdownify }}</h2>
+						<p>{{ .content | safeHTML }}</p>
+					</div>
+				</div>
+			{{ end }}
+		</div>
 	</div>
 </section>
 {{"<!-- /trupe -->" | safeHTML}}
