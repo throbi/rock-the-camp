@@ -76,8 +76,8 @@ La intrarea în spațiul festivalului persoanele participante trebuie să prezin
 - Documente medicale care dovedesc infectarea cu SARS-CoV-2 și se află în perioada cuprinsă între a 15-a zi și a 90-a zi ulterioară confirmării infectării
 - Test care să dovedească prezența de anticorpi de tip IgG efectuat cu maxim 14 zile inainte de eveniment
 
-Documentele doveditoare vor ramane la participanti.
+Documentele doveditoare vor rămâne la participanți.
 
-La intrarea in festival NU se vor face teste pentru determinarea infectarii cu SARS-CoV-2.
+La intrarea in festival NU se vor face teste pentru determinarea infectării cu SARS-CoV-2.
 
 Va mulțumim pentru înțelegere și vă dorim distracție plăcută!
