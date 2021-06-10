@@ -59,4 +59,25 @@ Organizatorul avertizează participanții că spectacolele includ efecte de lumi
 Organizatorul își rezervă dreptul de a modifica programul, dacă va fi necesar acest lucru și având un motiv întemeiat pentru decizie.
 Organizatorul își rezervă dreptul de a efectua controale în zona de festival pentru a se putea asigura respectarea prezentului regulament.
 
+CONDIȚII DE PARTICIPARE
+
+Conform Hotărârii nr. 32 din 27.05.2021 emisă de Guvernul României, participarea la activitățile culturale, artistice și de divertisment în spații deschise este permisă doar pentru:
+
+- Persoanele care sunt vaccinate împotriva virusului SARS-CoV-2 și pentru care au trecut 10 zile de la finalizarea schemei complete de vaccinare
+- Persoanele care prezintă rezultatul negativ al unui test RT-PCR pentru infecția cu virusul SARS-CoV-2 nu mai vechi de 72 de ore
+- Persoanele care prezintă rezultatul negativ certificat al unui test antigen rapid nu mai vechi de 24 de ore
+- Persoanele care se află în perioada cuprinsă între a 15-a zi și a 90-a zi ulterioară confirmării infectării cu SARS-CoV-2, fapt dovedit prin documente medicale (test RT-PCR pozitiv la data diagnosticului, bilet de externare din spital sau test care să dovedească prezența de anticorpi de tip IgG efectuat cu maxim 14 zile anterior desfășurării activității).
+
+La intrarea în spațiul festivalului persoanele participante trebuie să prezinte spre verificare unul din următoarele documente:
+
+- Adeverința de vaccinare care să ateste că au trecut 10 zile de la finalizarea schemei complete de vaccinare
+- Rezultat negativ al unui test RT-PCR pentru infecția cu virusul SARS-CoV-2 nu mai vechi de 72 de ore
+- Rezultatul negativ certificat al unui test antigen rapid nu mai vechi de 24 de ore
+- Documente medicale care dovedesc infectarea cu SARS-CoV-2 și se află în perioada cuprinsă între a 15-a zi și a 90-a zi ulterioară confirmării infectării
+- Test care să dovedească prezența de anticorpi de tip IgG efectuat cu maxim 14 zile inainte de eveniment
+
+Documentele doveditoare vor ramane la participanti.
+
+La intrarea in festival NU se vor face teste pentru determinarea infectarii cu SARS-CoV-2.
+
 Va mulțumim pentru înțelegere și vă dorim distracție plăcută!
