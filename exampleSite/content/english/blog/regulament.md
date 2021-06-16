@@ -78,6 +78,6 @@ La intrarea în spațiul festivalului persoanele participante trebuie să prezin
 
 Documentele doveditoare vor rămâne la participanți.
 
-La intrarea in festival NU se vor face teste pentru determinarea infectării cu SARS-CoV-2.
+La intrarea în festival se pot face teste rapide antigen în intervalul de la ora 14 la 19, prețul unei testări este de 30 de lei.
 
 Va mulțumim pentru înțelegere și vă dorim distracție plăcută!
