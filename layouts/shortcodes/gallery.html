@@ -5,7 +5,7 @@
 {{ $image := (.Page.Resources.ByType "image") }}
 {{ with $image }}
     {{ range . }}
-    {{ $resized := .Fill "200x200 q20" }}
+    {{ $resized := .Fill "150x115 q20" }}
     <a href="{{ .Permalink }}" data-lightbox="x"><img src="{{ $resized.Permalink }}" class="gallery-thumbnail" /></a>
     {{ end }}
 {{ end }}
