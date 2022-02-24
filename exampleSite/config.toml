@@ -112,7 +112,7 @@ languageCode = "ro-ro"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2021 Asociația Monday Shadows"
+copyright = "Copyright &copy; 2021-2022 Asociația Monday Shadows"
 
 ################################ France Language ########################
 [Languages.fr]

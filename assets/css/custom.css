@@ -171,3 +171,7 @@ h1 {
         font-size: 12px;
     }
 }
+
+.gallery-thumbnail {
+    padding: 15px;
+}
