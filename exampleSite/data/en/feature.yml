@@ -47,7 +47,7 @@ feature:
   
   tickets_icon : ti-ticket
   tickets_title : Bilete
-  tickets_text : "Biletele se pot achiziționa de pe site-ul <a href='https://www.iabilet.ro/bilete-rock-the-camp-63599/?q=rock+the+'>iabilet.ro</a>"
+  tickets_text : "Biletele se pot achiziționa de pe site-ul <a href='https://www.iabilet.ro/bilete-rock-the-camp-71741/' target='_blank'>iabilet.ro</a>"
 
   sponsors_icon : ti-heart
   sponsors_title : Parteneri
