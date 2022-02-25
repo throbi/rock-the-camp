@@ -1,25 +1,45 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/Afis landscape.jpg
-  image_webp : images/Afis landscape.webp
+  image : images/Afis 2022.jpg
+  image_webp : images/Afis 2022.webp
   feature_items : 
+    - image : images/Compact 2.jpg
+      link : compact
+      name: COMPACT
+      vertical: center
+    - image : images/luna amara.jpg
+      link : lunaamara
+      name: Luna amară
+      vertical: center
+    - image : images/speak floyd.jpg
+      link : speakfloyd
+      name: Speak Floyd
+      vertical: center
     - image : images/Altar 1.jpg
       link : altar
       name: ALTAR
+      vertical: top
+    - image : images/cash.jpg
+      link : cash
+      name: C.A.S.H.
       vertical: top
     - image : images/Monday Shadows 1.jpg
       link : mondayshadows
       name: Monday Shadows
       vertical: top
-    - image : images/Masterpiece 1.jpg
-      link : masterpiece
-      name: Masterpiece
+    - image : images/wildangels.jpg
+      link : wildangels
+      name: Wild Angels
       vertical: top
-    - image : images/Onenightstand 1.jpeg
-      link : onenightstand
-      name: OneNightStand
+    - image : images/voicesofsilence.jpg
+      link : voicesofsilence
+      name: Voices of Silence
       vertical: center
+    - image : images/front.jpg
+      link : front
+      name: FronT
+      vertical: top
     - image : images/Konthrast 1.jpeg
       link : konthrast
       name: Konthrast
@@ -34,27 +54,23 @@ feature:
   sponsors : 
     - name : Asociația Monday Shadows
       logo : images/Logo Owl Alb.png
+    - name : Centra Plus
+      logo : images/Centra Plus.jpg
     - name : AX Perpetuum
       logo : images/logo perpetuum.png
+    - name : Calvatis Calgonit
+      logo : images/calvatis.png
     - name : Primăria Gilău
       logo : images/stema-gilau-150x150.png
     - name : A.P. Road Studio
       logo : images/ap road.png
-    - name : Ana & Grig
-      logo : images/sigla ana+grig.png
     - name : Rock FM
       logo : images/Logo_Rock_FM_România.png
     - name : Liveset Recording Studio
       logo : images/liveset-logo-white.png
     - name : Camping Eldorado
       logo : images/camping eldorado.png
-    - name : Cursuri Tobe Ovidiu Crișan
-      logo : images/Cursuri Tobe Ovidiu Crișan.png
-    - name : Supersound
-      logo : images/supersound.jpg
     - name : Anna Vixie
       logo : images/Brush LOGO Anna_Alb.png
-    - name : Ursus
-      logo : images/Logo Ursus.jpeg
-    - name : Bârlog
-      logo : images/Logo Barlog.jpeg
+    - name : goREBEL
+      logo : images/goREBEL.png

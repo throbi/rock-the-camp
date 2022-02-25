@@ -2,30 +2,60 @@
 trupe:
   enable : true
   trupa1 :
-    image : images/Altar 2.jpg
-    image_webp : images/Altar 2.webp
-    title : Altar
-    content : 'Înființată în anul 1991, trupa ALTAR este printre singurele trupe din România care ne prezintă un metal de atitudine cu un mesaj foarte puternic, protestatar și chiar ironic, făcând parte din istoria modernă a muzicii rock românești. Altar a produs 5 albume de studio, 2 EP-uri, are sute de concerte susținute și participări la festivaluri, precum și numeroase premii câștigate în cariera lor prolifică. Show-urile ALTAR live sunt explozive și spectaculoase, energia transmisă pe scenă ajungand întotdeauna la public.<br/><br/>ALTAR va sărbători împreună cu voi 30 de ani de la înființare și ne promit un recital incendiar.'
+    image : images/Compact 2.jpg
+    image_webp : images/Compact 2.webp
+    title : Compact
+    content : 'Trupa Compact a luat fiinţă în 1977, la Cluj, însă a intrat în atenţia publicului abia în 1981, an în care şi-a găsit identitatea muzicală datorită cooptării lui Paul Ciuci – solist, chitarist şi compozitor. A fost un început de drum, compoziţiile lui Paul Ciuci s-au făcut remarcate rapid datorită stilului deosebit şi timbrului său aparte, iar în scurt timp, Compact a devenit una dintre cele mai cunoscute şi iubite formaţii rock din România. Primele piese ale trupei au fost înregistrate în 1982, acestea apărând pe albumul "Formaţii Rock 6". <br/><br/> Anul 2017 a adus o schimbare majoră în componenţa formaţiei, formula actuală fiind considerată atât de fani, cât şi de specialişti, ca fiind cea mai bună şi energică pe care a avut-o vreodată Compact. <br/><br/>An de an, formaţia are numeroase turnee naţionale, multe dintre concerte fiind sold-out. [trupacompact.ro]'
 
   trupa2 :
+    image : images/luna amara.jpg
+    image_webp : images/luna amara.webp
+    title : Luna Amară
+    content : 'Luna Amară este o formație de muzică rock, originară din Cluj-Napoca și fondată în 1999 sub numele de Tanagra Noise de către Nick Fagadar (voce, chitară), Gheorghe Farcaș (chitară bass). La scurt timp, alți artiști au completat trupa, elementele nou-introduse fiind remarcabile, un instrument aparte, mai rar întâlnit în muzica rock, fiind trompeta (interpretată de Mihnea Blidariu). Debutul pe scenă a avut loc în primăvara anului 2000, după care are loc schimbarea numelui în Luna Amară pentru că fanilor le era destul de greu să rețină vechiul nume. <br/><br/>Cenzurată din cauza opiniilor politice tranșante, cu un clip pe tv (Gri Dorian) atunci când încă nu exista un album, prezentă la toate festivalurile importante, o noutate absolută prin integrarea sunetului de trompetă într-un sound alternative, Luna Amară și-a format un public al său, un public care vrea să înțeleagă mai mult, care vrea să se implice mai mult. [wikipedia]'
+
+  trupa3 :
+    image : images/speak floyd.jpg
+    image_webp : images/speak floyd.webp
+    title : Speak Floyd
+    content : 'SPEAK FLOYD este singurul tribute-band PINK FLOYD din Romania si s-a infiintat in ianuarie 2010 la Cluj, avind in componenta muzicieni cu experienta. Proiectul a pornit ca o expresie a pasiunii membrilor sai pentru muzica si mesajul maestrilor muzicii progresive, PINK FLOYD.<br/><br/> Dupa o perioda de circa 6 luni, timp in care au avut loc repetitii zilnice si o definire a repertoriului de interpretat, trupa  SPEAK FLOYD debuteaza la Motor Bike Party de la Bacau unde creeaza o mare surpriza. <br/><br/>Toate concertele SPEAK FLOYD care au urmat au trezit un amplu interes la public in special la cel tinar (16-25 ani), lucru extrem de interesant si de imbucurator pentru o societate care parea a fi condamnata la autodistrugere prin perpetuarea non-valorilor. [eventim.ro]'
+
+  trupa4 :
+    image : images/Altar 2.jpeg
+    image_webp : images/Altar 2.webp
+    title : Altar
+    content : 'Înființată în anul 1991, trupa ALTAR este printre singurele trupe din România care ne prezintă un metal de atitudine cu un mesaj foarte puternic, protestatar și chiar ironic, făcând parte din istoria modernă a muzicii rock românești. <br/><br/>Altar a produs 5 albume de studio, 2 EP-uri, are sute de concerte susținute și participări la festivaluri, precum și numeroase premii câștigate în cariera lor prolifică. Show-urile ALTAR live sunt explozive și spectaculoase, energia transmisă pe scenă ajungand întotdeauna la public.<br/><br/>ALTAR va sărbători împreună cu voi 30 de ani de la înființare și ne promit un recital incendiar.'
+
+  trupa5 :
+    image : images/cash.jpg
+    image_webp : images/cash.webp
+    title : C.A.S.H.
+    content : 'Trupa C.A.S.H. s-a înființat în 1996, membrul fondator fiind Fodor Ladislau (Fotzey). În cei peste 20 de ani de activitate, C.A.S.H. a încântat publicul atât prin numeroasele concerte susținute, cât și prin albumele scoase (peste 700 de concerte prestate, peste 30 de videoclipuri realizate). De-a lungul anilor, trupa a avut în componentă artiști precum Mircea Mureșan, Răzvan Krivach, Liviu Sorescu, Klaus Pardos, Octavian Băies. [undergroundmusic.ro]'
+
+  trupa6 :
     image : images/MondayShadows 2.jpg
     image_webp : images/MondayShadows 2.webp
     title : Monday Shadows
     content : 'Înființată în anul 2017, trupa MONDAY SHADOWS este în prezent o formație în plină ascensiune în peisajul muzicii rock din România, sound-ul lor este o combinație de rock clasic cu heavy metal. Au susținut numeroase concerte în țara având deja un public fidel iubitor de muzică rock de calitate.<BR/><BR/>MONDAY SHADOWS ne vor prezenta în premieră albumul de debut al trupei “Nopți albe”, în care veți auzi piese care vorbesc despre situațiile de zi cu zi, despre baieți și motoare, povești și întâmplări din viața reală și imaginară.'
 
-  trupa3 :
-    image : images/Masterpiece 2.jpg
-    image_webp : images/Masterpiece 2.webp
-    title : Masterpiece
-    content : 'Înființată în anul 2009, trupa MASTERPIECE este prima, cea mai cunoscută și cea mai populară formație tribut METALLICA din România. Au participat la numeroase festivaluri de rock și metal, și-au format un nume demn de o trupă tribut al unei formații atât de consacrate ca și Metallica. Show-urile lor sunt mereu pline de energie, publicul îi iubește de la primul riff de chitară auzit.<br/><br/>Vom asista impreuna la o premieră, MASTERPIECE este în ascensiune artistică, chitaristul și fondatorul trupei Szabi Vincze este de acum înainte lead vocal, întocmai ca James Hetfield in METALLICA.'
+  trupa7 :
+    image : images/wildangels.jpg
+    image_webp : images/wildangels.webp
+    title : Wild Angels
+    content : 'Muzica southern rock, asemenea trupelor Lynyrd Skynyrd sau Eagles, indeamnă la drum și călătorie muzicală alături de drink-uri asezonate cu povești memorabile. Wild Angels înseamna același southern rock classic dar proaspăt. <BR/><BR/>Cu elemente de country, hard rock, alternative și pop pe alocuri, Wild Angels oferă un periplu muzical care se muleaza atmosferei de festival sau unei seri impreună cu prietenii. Alături de piesele de pe EP-ul de debut "Ride On", veți asculta și piese proaspete, în prima audiție. Line-up-ul trupei este format de Rares Timariu la chitară, Liviu Fodor la bass, Ovidiu Crișan la tobe și Laur Mihaiu la voce. <BR/><BR/>Baietii de la Wild Angels promit un show la care să dansam și la care să ne simțim liberi, cu toții! <BR/><BR/>Be Wild and Stay Wild! Ne vedem la Rock the Camp!'
 
-  trupa4 :
-    image : images/Onenightstand 2.jpeg
-    image_webp : images/Onenightstand 2.webp
-    title : OneNightStand
-    content : 'Încă din 2012, formația sibiană Onenightstand aduce pe scena autohtonă un melanj sonor unic, numit "High Voltage Rock''n''Roll". Dacă The Rolling Stones ar avea un copil nelegitim cu The Pretty Reckless, cam așa ar suna glasul acestuia, în care se amestecă influențe precum classic-rock, blues și punk-rock. Principiul trupei este că orice concert este o aventură de o noapte, așa că membrii formației oferă întotdeauna show-uri distractive în cel mai exploziv mod. Pur și simplu nu există spectator care să nu încheie seara dansând. Un one night stand cu formația nu va rămâne o simplă întâlnire fără obligații și va duce, mai mult ca sigur, la repetarea experienței, deoarece trupeții sunt de neoprit!'
+  trupa8 :
+    image : images/voicesofsilence.jpg
+    image_webp : images/voicesofsilence.webp
+    title : Voices of Silence
+    content : 'VOICES OF SILENCE reprezintă una dintre cele mai apreciate formaţii de progresiv din Romania. Trupa a fost fondată la Cluj Napoca în anul 1994 la iniţiativa chitaristului Vincze Szabi, dornic de a face muzică la nivel profesionist. <BR/><BR/>De-a lungul anilor, VOS participă la un numar mare de concerte și festivaluri importante din țară, talentul şi inspiraţia membrilor săi fiind răsplătite prin nenumărate premii şi nominalizări. Pe lângă aceste reuşite, trupa este invitată să participe la diverse recitaluri alături de majoritatea formaţiilor de metal consacrate din ţară (în cadrul evenimentelor precum Studio Rock MTV Bucureşti-Arenele Romane, Top T Buzău, Maximum Rock, Metalheart fest etc).'
 
-  trupa5 :
+  trupa9 :
+    image : images/front.jpg
+    image_webp : images/front.webp
+    title : FronT
+    content : '"În 2009, la Cluj-Napoca, ne-am început drumul cu o componență ce includea membri ale unor trupe cunoscute din zonă și-am reușit, repede, să lăsăm o impresie bună pe scena locală, în special prin aparițiile în deschiderea unor nume consacrate din undergroundul muzical românesc. Anul acela am scos primul nostru EP, 100% auto-produs, “Where Do You Go”, pe care-l găsiți pe pagina noastră de Soundcloud, iar cu piesa omonimă am reușit chiar să ajungem într-un top radio, la nivel național." <BR/><BR/>Au urmat mai multe înregistrări, videoclipuri și numeroas concerte și festivaluri cu care trupa FronT sa remarcat pe nivel național. '
+
+  trupa10 :
     image : images/Konthrast 2.jpeg
     image_webp : images/Konthrast 2.webp
     title : Konthrast

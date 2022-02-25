@@ -5,7 +5,7 @@
 {{"<!-- trupe -->" | safeHTML}}
 <section class="section section-bg about-2 padding-0" id="trupe">
 	<div class="container-fluid">
-		<a id="altar"></a>
+		<a id="compact"></a>
 		<div class="row">
 			{{ with .trupa1 }}
 				<div class="col-lg-6 padding-0 bands-photo" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: center; background-repeat: no-repeat;">
@@ -21,7 +21,7 @@
 			{{ end }}
 		</div>
 
-		<a id="mondayshadows"></a>
+		<a id="lunaamara"></a>
 		<div class="row">
 			{{ with .trupa2 }}
 				<div class="col-lg-6 padding-0 order-lg-2 bands-photo" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat;">
@@ -37,7 +37,7 @@
 			{{ end }}
 		</div>
 
-		<a id="masterpiece"></a>
+		<a id="speakfloyd"></a>
 		<div class="row">
 			{{ with .trupa3 }}
 				<div class="col-lg-6 padding-0 bands-photo" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat;">
@@ -53,7 +53,7 @@
 			{{ end }}
 		</div>
 
-		<a id="onenightstand"></a>
+		<a id="altar"></a>
 		<div class="row">
 			{{ with .trupa4 }}
 				<div class="col-lg-6 padding-0 order-lg-2 bands-photo" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat;">
@@ -69,7 +69,7 @@
 			{{ end }}
 		</div>
 
-		<a id="konthrast"></a>
+		<a id="cash"></a>
 		<div class="row">
 			{{ with .trupa5 }}
 				<div class="col-lg-6 padding-0 bands-photo" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat;">
@@ -84,6 +84,87 @@
 				</div>
 			{{ end }}
 		</div>
+
+		<a id="mondayshadows"></a>
+		<div class="row">
+			{{ with .trupa6 }}
+				<div class="col-lg-6 padding-0 order-lg-2 bands-photo" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat;">
+					<!-- this image is for trigger this section fallback background image -->
+					<img src="{{ .image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
+				</div>
+				<div class="col-lg-6 order-lg-1">
+					<div class="content-block">
+						<h2>{{ .title | markdownify }}</h2>
+						<p>{{ .content | safeHTML }}</p>
+					</div>
+				</div>
+			{{ end }}
+		</div>
+
+		<a id="wildangels"></a>
+		<div class="row">
+			{{ with .trupa7 }}
+				<div class="col-lg-6 padding-0 bands-photo" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat;">
+					<!-- this image is for trigger this section fallback background image -->
+					<img src="{{ .image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
+				</div>
+				<div class="col-lg-6">
+					<div class="content-block">
+						<h2>{{ .title | markdownify }}</h2>
+						<p>{{ .content | safeHTML }}</p>
+					</div>
+				</div>
+			{{ end }}
+		</div>
+
+		<a id="voicesofsilence"></a>
+		<div class="row">
+			{{ with .trupa8 }}
+				<div class="col-lg-6 padding-0 order-lg-2 bands-photo" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat;">
+					<!-- this image is for trigger this section fallback background image -->
+					<img src="{{ .image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
+				</div>
+				<div class="col-lg-6 order-lg-1">
+					<div class="content-block">
+						<h2>{{ .title | markdownify }}</h2>
+						<p>{{ .content | safeHTML }}</p>
+					</div>
+				</div>
+			{{ end }}
+		</div>
+
+		<a id="front"></a>
+		<div class="row">
+			{{ with .trupa9 }}
+				<div class="col-lg-6 padding-0 bands-photo" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat;">
+					<!-- this image is for trigger this section fallback background image -->
+					<img src="{{ .image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
+				</div>
+				<div class="col-lg-6">
+					<div class="content-block">
+						<h2>{{ .title | markdownify }}</h2>
+						<p>{{ .content | safeHTML }}</p>
+					</div>
+				</div>
+			{{ end }}
+		</div>
+
+		<a id="konthrast"></a>
+		<div class="row">
+			{{ with .trupa10 }}
+				<div class="col-lg-6 padding-0 order-lg-2 bands-photo" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat;">
+					<!-- this image is for trigger this section fallback background image -->
+					<img src="{{ .image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
+				</div>
+				<div class="col-lg-6 order-lg-1">
+					<div class="content-block">
+						<h2>{{ .title | markdownify }}</h2>
+						<p>{{ .content | safeHTML }}</p>
+					</div>
+				</div>
+			{{ end }}
+		</div>
+
 	</div>
 </section>
 {{"<!-- /trupe -->" | safeHTML}}

@@ -73,6 +73,11 @@ name = "CONTACT"
 url = "#contact"
 weight = 6
 
+[[Languages.en.menu.main]]
+name = "2021"
+url = "/galleries/2021"
+weight = 7
+
 
 ############################# Default Parameters ##########################
 [params]

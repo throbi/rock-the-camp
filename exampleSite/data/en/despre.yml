@@ -4,9 +4,9 @@ cta:
   bg_image : "images/festival.jpg"
   bg_image_webp : "images/festival.webp"
   title : "Despre Festival"
-  content1 : '“ROCK THE CAMP” este un festival eveniment cultural de muzica rock/metal, desfășurat într-un cadru primitor aproape de natură, care dorește să reunească după această lungă pauză iubitorii muzicii rock din Transilvania, și nu numai. Avem nevoie de socializare, fun, relaxare și muzică bună.'
-  content2 : 'În cadrul festivalului vor avea loc mai multe activități culturale (workshop-uri), va fi entertainment și va culmina cu un mega-concert, eveniment marcat de sărbătoriri și premiere.'
-  content3 : 'Festivalul “ROCK THE CAMP” se desfășoară în perimetrul Campingului Eldorado, în data de 19 iunie 2021, fiind organizat de Asociația Monday Shadows din Cluj-Napoca.'
+  content1 : '„ROCK THE CAMP” este un festival, un eveniment cultural de muzică rock/ metal, desfășurat într-un cadru primitor, aproape de natură. Însă, totodată, este mult mai mult de-atât. „ROCK THE CAMP” e comunitate, e spirit liber și familie, e râs sincer între prieteni și amintiri de preț, împărtășite. E liantul între nou și consacrat, între liniște și o doză sănătoasă de nebunie. E un spațiu sigur de exprimare și comuniunea unor generații legate de muzică, respect și valori comune. Evenimentul dorește să reunească iubitorii muzicii rock din Transilvania, și nu numai. „ROCK THE CAMP” este spațiul unde să îți poți aduce cu drag familia, prietenii, și chiar să le faci cunoștință celor mai tineri cu muzica ce unește oameni, ce naște idei și noi relații. '
+  content2 : 'În cadrul festivalului vor avea loc mai multe manifestări culturale - ateliere și activități conexe pentru toate vârstele și gusturile, iar evenimentul va culmina cu mega-concerte și va fi marcat de celebrări, lansări și premiere de neratat.'
+  content3 : 'Festivalul „ROCK THE CAMP” se desfășoară în perimetrul Campingului El Dorado, în perioada 8 - 10 iulie 2022, fiind organizat de Asociația Monday Shadows din Cluj-Napoca. <BR/><BR/>Muzica sună mai bine ÎMPREUNĂ!'
   button:
     enable : false
     label : "Start a project with us"
@@ -26,37 +26,66 @@ cta:
   bands_title : TRUPE
   bands_info :
     - icon: ti-control-play
-      info: '<a class="page-scroll" href="#altar">ALTAR</a>'
+      info: '<a class="page-scroll" href="#compact">COMPACT</a>'
     - icon: ti-control-play
-      info: '<a class="page-scroll" href="#mondayshadows">Monday Shadows</a>'
+      info: '<a class="page-scroll" href="#lunaamara">Luna Amară</a>'
     - icon: ti-control-play
-      info: '<a  class="page-scroll" href="#masterpiece">Masterpiece</a>'
+      info: '<a  class="page-scroll" href="#speakfloyd">Speak Floyd</a>'
     - icon: ti-control-play
-      info: '<a  class="page-scroll" href="#onenightstand">OneNightStand</a>'
+      info: '<a  class="page-scroll" href="#altar">ALTAR</a>'
+    - icon: ti-control-play
+      info: '<a  class="page-scroll" href="#cash">C.A.S.H.</a>'
+    - icon: ti-control-play
+      info: '<a class="page-scroll" href="#mondayshadows">Monday Shadows<</a>'
+    - icon: ti-control-play
+      info: '<a class="page-scroll" href="#wildangels">Wild Angels</a>'
+    - icon: ti-control-play
+      info: '<a  class="page-scroll" href="#voicesofsilence">Voices of Silence</a>'
+    - icon: ti-control-play
+      info: '<a  class="page-scroll" href="#front">FronT</a>'
     - icon: ti-control-play
       info: '<a  class="page-scroll" href="#konthrast">Konthrast</a>'
 
   program_icon : ti-calendar
   program_title : PROGRAM
   program_info :
+    - icon: ti-calendar
+      info: '<b>VINERI</b> 08.07.2022'
     - icon: ti-time
-      info: '12:00 <b>Deschidere acces festival</b>'
+      info: '18:00 <b>Deschidere festival</b>'
     - icon: ti-time
-      info: '15:00 – 18:00  <b>Workshop-uri</b>'
+      info: '19:00 – 19:45  <b>Konthrast</b>'
     - icon: ti-time
-      info: '19:00 – 24:00  <b>Concerte</b>'
-
-  workshop_icon : ti-wand
-  workshop_title : WORKSHOP-URI
-  workshop_info1 :
-    - info: 'În cadrul festivalului “Rock the Camp” vor fi organizate două workshop-uri în inițierea cunoștințelor de tobe și chitară.'
-    - info: '- Workshop TOBE – susținut de “Cursuri Tobe Ovidiu Crișan”'
-    - info: '- Workshop CHITARĂ – susținut de “Monday Shadows”'
-
-  workshop_info2 :
-    - info: 'Workshop-urile sunt organizate în corturi amenajate în incinta festivalului. '
-    - info: 'Poate participa orice persoană iubitoare de muzică cu vârsta de peste 12 ani.'
-
-  workshop_info3 :
-    - info: 'Doritorii trebuie să se înscrie preliminar la adresa de email: <a href="mailto:contact@mondayshadows.com">contact@mondayshadows.com</a>'
-    - info: 'Numărul de locuri este limitat și de aceea vă rugăm să vă înscrieți din timp.'
+      info: '20:00 – 20:45  <b>Wild Angels</b>'
+    - icon: ti-time
+      info: '21:00 – 21:45  <b>C.A.S.H.</b>'
+    - icon: ti-time
+      info: '22:00 – 23:00  <b>Luna Amară</b>'
+    - icon: ti-time
+      info: '23:15 – 00:30  <b>Speak Floyd</b>'
+    - icon: ti-calendar
+      info: '<b>SÂMBĂTĂ</b> 09.07.2022'
+    - icon: ti-time
+      info: '01:00 - 03:00 <b>Afer Party</b>'
+    - icon: ti-time
+      info: '16:00 – 16:50  <b>Atelier chitară</b>'
+    - icon: ti-time
+      info: '16:00 – 16:50  <b>Atelier tobe</b>'
+    - icon: ti-time
+      info: '1t:00 – 18:00  <b>Scenetă teatru cu Dan Chiorean</b>'
+    - icon: ti-time
+      info: '18:00 <b>Deschidere festival</b>'
+    - icon: ti-time
+      info: '19:00 – 19:45  <b>FronT</b>'
+    - icon: ti-time
+      info: '20:00 – 20:45  <b>Voices of Silence</b>'
+    - icon: ti-time
+      info: '21:00 – 21:45  <b>Monday Shadows</b>'
+    - icon: ti-time
+      info: '22:00 – 23:00  <b>ALTAR</b>'
+    - icon: ti-time
+      info: '23:15 – 00:30  <b>COMPACT</b>'
+    - icon: ti-calendar
+      info: '<b>DUMINICĂ</b> 10.07.2022'
+    - icon: ti-time
+      info: '01:00 - 03:00 <b>Afer Party</b>'

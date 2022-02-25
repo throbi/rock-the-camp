@@ -21,7 +21,7 @@ h1 {
     background-size: cover; 
     background-position: top center; 
     background-repeat: no-repeat; 
-    height: calc(100vw * 224 / 2480);
+    height: calc(100vw * 224 / 2016);
     padding: 0;
 }
 
@@ -87,7 +87,7 @@ h1 {
         background-size: contain;
         background-position: 50% 0;
         background-repeat: no-repeat;
-        min-height: calc(100vw*526/985);
+        min-height: calc(100vw*526/395);
     }
 
     .bands a span {

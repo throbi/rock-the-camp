@@ -1,8 +1,8 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/hero-background.webp"
-  bg_image : "images/hero-background.jpg"
+  bg_image_webp : "images/hero-background-2022.webp"
+  bg_image : "images/hero-background-2022.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Rock the Camp"
   content : "Festival rock la iarbă verde. Concerte, workshop-uri și bere rece!"
