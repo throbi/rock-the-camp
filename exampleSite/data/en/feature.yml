@@ -7,11 +7,11 @@ feature:
     - image : images/Compact 2.jpg
       link : compact
       name: COMPACT
-      vertical: center
+      vertical: top
     - image : images/luna amara.jpg
       link : lunaamara
       name: Luna amară
-      vertical: center
+      vertical: top
     - image : images/speak floyd.jpg
       link : speakfloyd
       name: Speak Floyd
