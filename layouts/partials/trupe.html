@@ -16,6 +16,9 @@
 					<div class="content-block">
 						<h2>{{ .title | markdownify }}</h2>
 						<p>{{ .content | safeHTML  }}</p>
+						{{ if .link }}
+							<a href="{{ .link }}">Mai mult despre {{ .title }}...</a>
+						{{ end }}
 					</div>
 				</div>
 			{{ end }}

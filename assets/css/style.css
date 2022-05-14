@@ -9,13 +9,14 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 /*=== MEDIA QUERY ===*/
 html {
   background-color: #353b43;
-  color: #737f8a;
+  color: #c9dcee;
+  cursor: default;
 }
 
 body {
   background-color: #353b43;
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-  color: #737f8a;
+  color: #c9dcee;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -649,7 +650,7 @@ a:hover {
 
 .call-to-action p {
   font-size: 16px;
-  color: #666;
+  color: #c9dcee;
 }
 
 .call-to-action .btn-main {
