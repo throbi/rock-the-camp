@@ -75,6 +75,10 @@ h1 {
     padding: 10px 10px;
 }
 
+.lb-outerContainer {
+    background-color: #0008 !important;
+}
+
 @media (max-width: 991px) {
     .bands {
         background-size: cover; 
