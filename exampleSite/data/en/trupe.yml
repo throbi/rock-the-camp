@@ -5,59 +5,68 @@ trupe:
     image : images/Compact 2.jpg
     image_webp : images/Compact 2.webp
     title : Compact
-    content : 'Formația Compact a fost fondată în 1976, la Cluj-Napoca, de Costi Cămărășan, Teo Peter, Marius Luca, Cornel Moldovan si Balázs László și a activează la Clubul Universității Babeș-Bolyai. În calitate de leader al formației Costi Cămărășan se ocupă de managementul, dotarea cu echipament de sunet și lumini, echipament pe care îl construiește singur, pt. buna funcționare a formației. <br/><br/> Debutul oficial al formației are loc în 1979 după care Compact a obținut numeroase premii și a reprezentat România peste hotare la mai multe festivaluri și turnee.'
+    content : 'Formația Compact a fost fondată în 1976, la Cluj-Napoca, de Costi Cămărășan, Teo Peter, Marius Luca, Cornel Moldovan si Balázs László și a activează la Clubul Universității Babeș-Bolyai. În calitate de leader al formației Costi Cămărășan se ocupă de managementul, dotarea cu echipament de sunet și lumini, echipament pe care îl construiește singur, pentru buna funcționare a formației. <br/><br/> Debutul oficial al formației are loc în 1979 după care Compact a obținut numeroase premii și a reprezentat România peste hotare la mai multe festivaluri și turnee.'
     link: festival/trupe/compact
 
   trupa2 :
     image : images/luna amara.jpg
     image_webp : images/luna amara.webp
     title : Luna Amară
-    content : 'Luna Amară este o formație de muzică rock, originară din Cluj-Napoca și fondată în 1999 sub numele de Tanagra Noise de către Nick Fagadar (voce, chitară), Gheorghe Farcaș (chitară bass). La scurt timp, alți artiști au completat trupa, elementele nou-introduse fiind remarcabile, un instrument aparte, mai rar întâlnit în muzica rock, fiind trompeta (interpretată de Mihnea Blidariu). Debutul pe scenă a avut loc în primăvara anului 2000, după care are loc schimbarea numelui în Luna Amară pentru că fanilor le era destul de greu să rețină vechiul nume. <br/><br/>Cenzurată din cauza opiniilor politice tranșante, cu un clip pe tv (Gri Dorian) atunci când încă nu exista un album, prezentă la toate festivalurile importante, o noutate absolută prin integrarea sunetului de trompetă într-un sound alternative, Luna Amară și-a format un public al său, un public care vrea să înțeleagă mai mult, care vrea să se implice mai mult.'
+    content : 'Cu o intensă și constantă activitate concertistică începând din 2000, Luna Amară a devenit formația fanion pentru mai multe generații care apreciază mesajele sociale dar și iubirea descrisă printr-o lirică ce naște trăiri dintre cele mai diverse. Sound-ul trupei scoate în evidență compoziții originale care pun accentul pe solo-urile de trompetă, riffurile de chitară și îmbinarea contrastantă a duetului de voci, cvintetul fiind apreciat și pentru partea ritmică solidă care stă la baza pieselor.'
+    link: festival/trupe/luna-amara
 
   trupa3 :
     image : images/speak floyd.jpg
     image_webp : images/speak floyd.webp
     title : Speak Floyd
-    content : 'SPEAK FLOYD este singurul tribute-band PINK FLOYD din Romania si s-a infiintat in ianuarie 2010 la Cluj, avind in componenta muzicieni cu experienta. Proiectul a pornit ca o expresie a pasiunii membrilor sai pentru muzica si mesajul maestrilor muzicii progresive, PINK FLOYD.<br/><br/> Dupa o perioda de circa 6 luni, timp in care au avut loc repetitii zilnice si o definire a repertoriului de interpretat, trupa  SPEAK FLOYD debuteaza la Motor Bike Party de la Bacau unde creeaza o mare surpriza. <br/><br/>Toate concertele SPEAK FLOYD care au urmat au trezit un amplu interes la public in special la cel tinar (16-25 ani), lucru extrem de interesant si de imbucurator pentru o societate care parea a fi condamnata la autodistrugere prin perpetuarea non-valorilor.'
+    content : 'Speak Floyd vine cu show-ul extraordinar "OUTSIDE THE WALL" - o parafrază a clasicul album Pink Floyd, cât și o butadă la adresa vremurilor constrictive trăite. Artistii ne-au pregatit atât compoziții de pe albumul “The Wall”, cât și piese fără vârstă, mereu actuale de pe cele mai cunoscute albume clasice ale legendarei trupe Pink Floyd. <br/><br/> Speak Floyd este un grup rock format din pasionați ai muzicii legendarei formații britanice de muzică progresivă Pink Floyd și care interpretează exclusiv piese ale acestei trupe.'
+    link: festival/trupe/speak-floyd
 
   trupa4 :
     image : images/Altar 2.jpeg
     image_webp : images/Altar 2.webp
     title : Altar
     content : 'Înfiinţată in 1991 la Cluj-Napoca, formaţia ALTAR Romania s-a impus încă de la primele apariţii live ca fiind una dintre cele mai prestigioase trupe rock din România. Pe parcursul a peste 30 de ani de existenta a trupei, a fost o promotoare a muzicii de atitudine, iar activitatea formatiei constituie, probabil, cea mai importanta pagina din istoria scenei metal autohtone, editând două EP-uri şi cinci albume. Altar este nominalizată şi desemnată în repetate rânduri de către public şi presa de specialitate drept cea mai bună trupă metal românească.'
+    link: festival/trupe/altar
 
   trupa5 :
     image : images/cash.jpg
     image_webp : images/cash.webp
     title : C.A.S.H.
     content : 'Trupa C.A.S.H. s-a înființat în 1996, membrul fondator fiind Fodor Ladislau (Fotzey). În cei peste 25 de ani de activitate, C.A.S.H. a încântat publicul atât prin numeroasele concerte susținute, cât și prin albumele scoase (peste 800 de concerte prestate, peste 40 de videoclipuri realizate). De-a lungul anilor, trupa a avut în componență artiști precum Mircea Mureșan, Răzvan Krivach, Liviu Sorescu, Klaus Pardos, Octavian Băieș.'
+    link: festival/trupe/cash
 
   trupa6 :
     image : images/MondayShadows 2.jpg
     image_webp : images/MondayShadows 2.webp
     title : Monday Shadows
-    content : 'După ce anul trecut au lansat albumul de debut NOPȚI ALBE, anul acesta vom avea parte și de piese proaspete din partea celor de la MONDAY SHADOWS,  pentru că băieții au început sa lucreze și la cel de-al doilea material discografic. <br/><br/>Aceleași tonuri calde de hard rock/heavy metal vor fi prezente în cadrul festivalului, adăugând nuanțe de blues sau funk/disco. <br/><br/>Cu siguranță ne vom distra pe MOTOARELE, NOPȚI ALBE sau BERE RECE impreună cu fiecare dintre voi. <br/><br/>Membri trupei, Sándor, Lórant, Răzvan, Dan si Ove, de-abia așteaptă reîntalnirea cu festivalierii și sunt foarte încântați că reușim să ne revedem cu ei după încă un an, la cea de-a doua editie a ROCK THE CAMP!<br/><br/>Haideți sa facem și anul acesta încă o data NOPȚI ALBE! Pană atunci îi găsiți online pe toate platformele de streaming!'
+    content : 'După ce anul trecut au lansat albumul de debut NOPȚI ALBE, anul acesta vom avea parte și de piese proaspete din partea celor de la MONDAY SHADOWS,  pentru că băieții au început sa lucreze și la cel de-al doilea material discografic. Aceleași tonuri calde de hard rock/heavy metal vor fi prezente în cadrul festivalului, adăugând nuanțe de blues sau funk/disco. <br/><br/>Cu siguranță ne vom distra pe MOTOARELE, NOPȚI ALBE sau BERE RECE impreună cu fiecare dintre voi.'
+    link: festival/trupe/monday-shadows 
 
   trupa7 :
     image : images/wildangels.jpg
     image_webp : images/wildangels.webp
     title : Wild Angels
-    content : 'Muzica southern rock, asemenea trupelor Lynyrd Skynyrd sau Eagles, indeamnă la drum și călătorie muzicală alături de drink-uri asezonate cu povești memorabile. Wild Angels înseamna același southern rock classic dar proaspăt. <BR/><BR/>Cu elemente de country, hard rock, alternative și pop pe alocuri, Wild Angels oferă un periplu muzical care se muleaza atmosferei de festival sau unei seri impreună cu prietenii. Alături de piesele de pe EP-ul de debut "Ride On", veți asculta și piese proaspete, în prima audiție. Line-up-ul trupei este format de Rares Timariu la chitară, Liviu Fodor la bass, Ovidiu Crișan la tobe și Laur Mihaiu la voce. <BR/><BR/>Baietii de la Wild Angels promit un show la care să dansam și la care să ne simțim liberi, cu toții! <BR/><BR/>Be Wild and Stay Wild! Ne vedem la Rock the Camp!'
+    content : 'Muzica southern rock, asemenea trupelor Lynyrd Skynyrd sau Eagles, indeamnă la drum și călătorie muzicală alături de drink-uri asezonate cu povești memorabile. Wild Angels înseamna același southern rock classic dar proaspăt. <BR/><BR/>Cu elemente de country, hard rock, alternative și pop pe alocuri, Wild Angels oferă un periplu muzical care se muleaza atmosferei de festival sau unei seri impreună cu prietenii. Alături de piesele de pe EP-ul de debut "Ride On", veți asculta și piese proaspete, în prima audiție. Line-up-ul trupei este format de Rares Timariu la chitară, Liviu Fodor la bass, Ovidiu Crișan la tobe și Laur Mihaiu la voce. <BR/><BR/>Băieții de la Wild Angels promit un show la care să dansam și la care să ne simțim liberi, cu toții! <BR/><BR/>Be Wild and Stay Wild! Ne vedem la Rock the Camp!'
+    link: festival/trupe/wild-angels
 
   trupa8 :
     image : images/voicesofsilence.jpg
     image_webp : images/voicesofsilence.webp
     title : Voices of Silence
     content : 'VOICES OF SILENCE reprezintă una dintre cele mai apreciate formaţii de progresiv din Romania. Trupa a fost fondată la Cluj Napoca în anul 1994 la iniţiativa chitaristului Vincze Szabi, dornic de a face muzică la nivel profesionist. <BR/><BR/>De-a lungul anilor, VOS participă la un numar mare de concerte și festivaluri importante din țară, talentul şi inspiraţia membrilor săi fiind răsplătite prin nenumărate premii şi nominalizări. Pe lângă aceste reuşite, trupa este invitată să participe la diverse recitaluri alături de majoritatea formaţiilor de metal consacrate din ţară (în cadrul evenimentelor precum Studio Rock MTV Bucureşti-Arenele Romane, Top T Buzău, Maximum Rock, Metalheart fest etc).'
+    link: festival/trupe/voices-of-silence
 
   trupa9 :
     image : images/front.jpg
     image_webp : images/front.webp
     title : FronT
-    content : '"În 2009, la Cluj-Napoca, ne-am început drumul cu o componență ce includea membri ale unor trupe cunoscute din zonă și-am reușit, repede, să lăsăm o impresie bună pe scena locală, în special prin aparițiile în deschiderea unor nume consacrate din undergroundul muzical românesc. Anul acela am scos primul nostru EP, 100% auto-produs, “Where Do You Go”, pe care-l găsiți pe pagina noastră de Soundcloud, iar cu piesa omonimă am reușit chiar să ajungem într-un top radio, la nivel național." <BR/><BR/>Au urmat mai multe înregistrări, videoclipuri și numeroas concerte și festivaluri cu care trupa FronT sa remarcat pe nivel național. '
+    content : 'În 2009, la Cluj-Napoca, ne-am început drumul cu o componență ce includea membri ale unor trupe cunoscute din zonă și-am reușit, repede, să lăsăm o impresie bună pe scena locală, în special prin aparițiile în deschiderea unor nume consacrate din undergroundul muzical românesc. Anul acela am scos primul nostru EP, 100% auto-produs, “Where Do You Go”, pe care-l găsiți pe pagina noastră de Soundcloud, iar cu piesa omonimă am reușit chiar să ajungem într-un top radio, la nivel național." <BR/><BR/>Au urmat mai multe înregistrări, videoclipuri și numeroas concerte și festivaluri cu care trupa FronT sa remarcat pe nivel național. '
+    link: festival/trupe/front
 
   trupa10 :
     image : images/Konthrast 2.jpeg
     image_webp : images/Konthrast 2.webp
     title : Konthrast
-    content : 'Formația clujeană a fost înființată în anul 2014. O trupă caldă, care prin muzica și concertele lor ne aduce aminte de rockul românesc al anilor ''80, îmbinând clasicul cu modernul. Energică și melancolică în același timp, Konthrast este o trupă care a susținut diverse concerte în cadrul scenei rock clujene și transilvănene. Grupul abordează piese în limba română întotdeauna însoțite de pasaje melodice, pline de groove și nostalgie. O combinație de succes pentru o seară cu prietenii, Konthrast va deschide festivalul ROCK THE CAMP și vor de startul la voie bună!'
+    content : 'Formația clujeană a fost înființată în anul 2014. O trupă caldă, care prin muzica și concertele lor ne aduce aminte de rockul românesc al anilor ''80, îmbinând clasicul cu modernul. Energică și melancolică în același timp, Konthrast este o trupă care a susținut diverse concerte în cadrul scenei rock clujene și transilvănene. Grupul abordează piese în limba română întotdeauna însoțite de pasaje melodice, pline de groove și nostalgie.'
+    link: festival/trupe/konthrast
