@@ -12,7 +12,7 @@
 			</div>
 			{{"<!-- /section title -->" | safeHTML}}
 
-			{{ range last 1 (where site.RegularPages "Section" "==" "festival")}}
+			{{ range first 1 (where site.RegularPages "Section" "==" "documente")}}
 			{{ .Render "article"}}
 			{{ end }}
 		</div>
