@@ -14,17 +14,6 @@ pricing:
       button:
         label : "CUMPĂRĂ BILETE"
         link : "https://www.iabilet.ro/bilete-rock-the-camp-71741/"
-
-    # pricing table loop
-    - name : EARLY BIRD
-      price : 100 lei
-      unit : persoanä
-      services:
-        - Abonament festival
-        - Acces general
-      button:
-        label : "CUMPĂRĂ BILETE"
-        link : "https://www.iabilet.ro/bilete-rock-the-camp-71741/"    
       
     # pricing table loop
     - name : ACCES ÎN ZONA DE CAMPARE
