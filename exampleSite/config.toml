@@ -1,3 +1,5 @@
+timeout = 60000
+
 ################################# Default configuration ###################
 baseURL = "https://rock-the-camp.netlify.app"
 title = "Rock the Camp"
