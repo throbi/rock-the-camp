@@ -1,6 +1,11 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
+{{ $lightboxCSS := resources.Get "css/lightbox.min.css" | minify }}
+<link rel="stylesheet" href="{{ $lightboxCSS.Permalink }}">
+
+{{ $jQueryJS := resources.Get "js/jquery.min.js" | minify }}
+<script src="{{ $jQueryJS.Permalink }}"></script>
+
+{{ $lightboxJS := resources.Get "js/lightbox.min.js" | minify }}
+<script src="{{ $lightboxJS.Permalink }}"></script>
 
 {{ $image := (.Page.Resources.ByType "image") }}
 {{ with $image }}
