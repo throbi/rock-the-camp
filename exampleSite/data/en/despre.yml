@@ -54,6 +54,8 @@ cta:
     - icon: ti-time
       info: '18:00 <b>Deschidere festival</b>'
     - icon: ti-time
+      info: '18:00 – 18:45  <b>Voices of Silence</b>'
+    - icon: ti-time
       info: '19:00 – 19:45  <b>Konthrast</b>'
     - icon: ti-time
       info: '20:00 – 20:45  <b>Wild Angels</b>'
@@ -63,29 +65,35 @@ cta:
       info: '22:00 – 23:00  <b>Luna Amară</b>'
     - icon: ti-time
       info: '23:15 – 00:30  <b>Speak Floyd</b>'
+    - icon: ti-time
+      info: '01:00 - 03:00 <b>Afer Party</b>'
     - icon: ti-calendar
       info: '<b>SÂMBĂTĂ</b> 09.07.2022'
     - icon: ti-time
-      info: '01:00 - 03:00 <b>Afer Party</b>'
+      info: '14:00 – 16:00  <b>Beer Pong, Bülgözdi Lóránt</b>'
     - icon: ti-time
-      info: '16:00 – 16:50  <b>Atelier chitară</b>'
+      info: '16:00 – 17:00  <b>Atelier chitară, Andrei Boțan - Luna amara</b>'
     - icon: ti-time
-      info: '16:00 – 16:50  <b>Atelier tobe</b>'
+      info: '16:00 – 17:00  <b>Atelier tobe, Ovidiu Crisan - Monday Shadows</b>'
     - icon: ti-time
-      info: '17:00 – 18:00  <b>Scenetă teatru cu Dan Chiorean</b>'
+      info: '16:00 – 17:00  <b>Atelier dans, Ioana Moldovan</b>'
     - icon: ti-time
-      info: '18:00 <b>Deschidere festival</b>'
+      info: '16:00 – 17:00  <b>Beer tasting, Echipa Bârlog</b>'
     - icon: ti-time
-      info: '19:00 – 19:45  <b>FronT</b>'
+      info: '18:00 <b>Deschidere zi festival</b>'
     - icon: ti-time
-      info: '20:00 – 20:45  <b>Voices of Silence</b>'
+      info: '18:00 – 18:15  <b>Poezie cu suflet de Rocker, Dan Chiorean</b>'
+    - icon: ti-time
+      info: '18:30 – 19:00  <b>Mvntra</b>'
+    - icon: ti-time
+      info: '19:15 – 19:30  <b>Chocoflenders</b>'
+    - icon: ti-time
+      info: '20:00 – 19:45  <b>FronT</b>'
     - icon: ti-time
       info: '21:00 – 21:45  <b>Monday Shadows</b>'
     - icon: ti-time
       info: '22:00 – 23:00  <b>ALTAR</b>'
     - icon: ti-time
       info: '23:15 – 00:30  <b>COMPACT</b>'
-    - icon: ti-calendar
-      info: '<b>DUMINICĂ</b> 10.07.2022'
     - icon: ti-time
       info: '01:00 - 03:00 <b>Afer Party</b>'
