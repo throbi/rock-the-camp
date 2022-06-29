@@ -74,3 +74,9 @@ feature:
       logo : images/Brush LOGO Anna_Alb.png
     - name : goREBEL
       logo : images/goREBEL.png
+    - name : Red Bull
+      logo : images/Red Bull.png
+    - name : URSUS
+      logo : images/Ursus.png
+    - name : TVR Cluj
+      logo : images/TVR Cluj.png

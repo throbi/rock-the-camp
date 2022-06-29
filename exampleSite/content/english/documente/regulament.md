@@ -56,22 +56,5 @@ INFORMAȚII SUPLIMENTARE
 
 Pentru copii se recomandă în timpul concertelor utilizarea căștilor pentru protecție fonică. În cazul în care copiii nu sunt echipați corespunzător, răspunderea pentru expunerea acestora la nivelul fonic din zona de festival revine integral părinților sau însoțitorilor acestora. Organizatorul avertizează participanții că spectacolele includ efecte de lumină care ar putea dăuna copiilor sau persoanelor epileptice. Organizatorul își rezervă dreptul de a modifica programul, dacă va fi necesar acest lucru și având un motiv întemeiat pentru decizie. Organizatorul își rezervă dreptul de a efectua controale în zona de festival pentru a se putea asigura respectarea prezentului regulament.
 
-CONDIȚII DE PARTICIPARE
------------------------
-
-Conform HCNSU nr. 1 din 05.01.2022 se propune ca participarea să fie permisă doar pentru:
-- Persoanele care sunt vaccinate împotriva virusului SARS-CoV-2 și pentru care au trecut 10 zile de la finalizarea schemei complete de vaccinare.
-- Persoanele care prezintă rezultatul negativ al unui test RT-PCR pentru infecția cu virusul SARSCoV-2 nu mai vechi de 72 de ore sau rezultatul negativ certificat al unui test antigen rapid pentru infecția cu virusul SARS-CoV-2 nu mai vechi de 48 de ore.
-- Persoanele care se află în perioada cuprinsă între a 15-a zi și a 180-a zi ulterioară confirmării infectării cu virusul SARS-CoV-2.
-
-La intrarea în spațiul festivalului persoanele participante trebuie să prezinte spre verificare unul din următoarele documente:
-- Adeverința de vaccinare care să ateste că au trecut 10 zile de la finalizarea schemei complete de vaccinare
-- Rezultatul negativ al unui test RT-PCR pentru infecția cu virusul SARSCoV-2 nu mai vechi de 72 de ore. 
-- Rezultatul negativ certificat al unui test antigen rapid pentru infecția cu virusul SARS-CoV-2 nu mai vechi de 48 de ore.
-- Documente medicale care dovedesc infectarea cu SARS-CoV-2 și se află în perioada cuprinsă între a 15-a zi și a 180-a zi ulterioară confirmării infectării.
-- Documentele doveditoare vor rămâne la participanți.
-
-La intrarea în festival se pot face teste rapide antigen în intervalul de la ora 14 la 19, prețul unei testări este de 30 de lei.
-
 Va mulțumim pentru înțelegere și vă dorim distracție plăcută!
 
