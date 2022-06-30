@@ -66,7 +66,7 @@ cta:
     - icon: ti-time
       info: '23:15 – 00:30  <b>Speak Floyd</b>'
     - icon: ti-time
-      info: '01:00 - 03:00 <b>Afer Party</b>'
+      info: '01:00 - 03:00 <b>After Party</b>'
     - icon: ti-calendar
       info: '<b>SÂMBĂTĂ</b> 09.07.2022'
     - icon: ti-time
@@ -88,7 +88,7 @@ cta:
     - icon: ti-time
       info: '19:15 – 19:30  <b>Chocoflenders</b>'
     - icon: ti-time
-      info: '20:00 – 19:45  <b>FronT</b>'
+      info: '20:00 – 20:45  <b>FronT</b>'
     - icon: ti-time
       info: '21:00 – 21:45  <b>Monday Shadows</b>'
     - icon: ti-time
@@ -96,4 +96,4 @@ cta:
     - icon: ti-time
       info: '23:15 – 00:30  <b>COMPACT</b>'
     - icon: ti-time
-      info: '01:00 - 03:00 <b>Afer Party</b>'
+      info: '01:00 - 03:00 <b>After Party</b>'
