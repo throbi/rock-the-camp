@@ -44,7 +44,25 @@
 								</div>
 							</div>
 						</div>
-						
+						<div class="col-lg-12">
+							<div style="padding-left: 30px;">
+
+								{{ $lightboxCSS := resources.Get "css/lightbox.min.css" | minify }}
+									<link rel="stylesheet" href="{{ $lightboxCSS.Permalink }}">
+
+									{{ $jQueryJS := resources.Get "js/jquery.min.js" | minify }}
+									<script src="{{ $jQueryJS.Permalink }}"></script>
+
+									{{ $lightboxJS := resources.Get "js/lightbox.min.js" | minify }}
+									<script src="{{ $lightboxJS.Permalink }}"></script>
+
+									{{ $image := resources.Get "/images/RTC2.5D.png"}}
+									{{ with $image }}
+									    {{ $resized := .Fill "300x230 q20" }}
+									    <a href="{{ .Permalink }}" data-lightbox="x"><img src="{{ $resized.Permalink }}" class="gallery-thumbnail" /></a>
+									{{ end }}
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
