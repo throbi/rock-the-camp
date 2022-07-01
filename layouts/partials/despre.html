@@ -58,7 +58,7 @@
 
 									{{ $image := resources.Get "/images/RTC2.5D.png"}}
 									{{ with $image }}
-									    {{ $resized := .Fill "300x230 q20" }}
+									    {{ $resized := .Resize "300x" }}
 									    <a href="{{ .Permalink }}" data-lightbox="x"><img src="{{ $resized.Permalink }}" class="gallery-thumbnail" /></a>
 									{{ end }}
 							</div>
