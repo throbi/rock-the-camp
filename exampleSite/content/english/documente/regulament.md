@@ -18,7 +18,10 @@ Accesul în zona de festival este permis numai în baza biletului valid, unei si
 INTERZIS
 --------
 
-Este interzisă aprinderea focului în spațiul Camping Eldorado. Deșeurile vor fi colectate și depozitate în spații amenajate în acest sens. Este interzis accesul la festivalul “Rock the Camp” cu obiecte contondente: arme albe / obiecte ce pot fi folosite ca arme albe sau orice obiecte care pot produce vătămare corporală; aceste obiecte vor fi confiscate, iar organizatorii nu-și asumă răspunderea pentru returnarea lor. Este interzis accesul în zona de eveniment cu băuturi de orice fel și produse alimentare achiziționate din afara zonei aferente festivalul „Rock the Camp”.
+ESTE INTERZIS ACCESUL CU URMĂTOARELE LUCRURI: DROGURI, APARATE PIROTEHNICE, STICLĂ, OBIECTE CONTONDENTE, CUŢITE, UMBRELE, MATERIAL EXPLOZIBIL, TOXIC SAU INFLAMABIL, OBIECTE CARE ÎI POT RĂNI PE CEILALŢI.
+
+Este interzis accesul în zona de eveniment cu băuturi de orice fel și produse alimentare achiziționate din afara zonei aferente festivalul „Rock the Camp”.
+Este interzisă aprinderea focului în spațiul Camping Eldorado. Deșeurile vor fi colectate și depozitate în spații amenajate în acest sens.
 
 CAMPARE
 -------
